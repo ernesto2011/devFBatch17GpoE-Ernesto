@@ -1,0 +1,23 @@
+{
+  "name": "devfbatch17gpoe-ernesto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernesto2011/devFBatch17GpoE-Ernesto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ernesto2011/devFBatch17GpoE-Ernesto/issues"
+  },
+  "homepage": "https://github.com/ernesto2011/devFBatch17GpoE-Ernesto#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
