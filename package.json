@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ernesto2011/devFBatch17GpoE-Ernesto#readme",
   "dependencies": {
-    "nodemon": "^2.0.19"
+    "nodemon": "^2.0.19",
+    "xmlhttprequest": "^1.8.0"
   }
 }
